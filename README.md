@@ -1,5 +1,7 @@
 # Artist Recommendation Based on Association Rule Mining and Community Detection
 
+
+
 In this work we proposed a graph-based approach that utilizes association rules extracted from Spotify playlists. We constructed several artist networks and identified related artist clusters using Louvain and Label Propagation community detection algorithms
 
 Dataset:
@@ -16,4 +18,6 @@ Step 2) Execute each step in experiments folder with Experiments notebook. These
 
 Step 3) Execute each step in visualization folder with Visualization notebook. These notebook visualize clusters according to cluster labels.
 
+## Citation
 
+Çiftçi, O., Tenekeci, S., & Ülgentürk, C. (2021). Artist Recommendation based on Association Rule Mining and Community Detection. KDIR.
